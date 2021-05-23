@@ -5,3 +5,5 @@ I am Abhishek Kumar, a pre-final year undergrad at IIT(ISM) Dhanbad with Compute
 - 🏅 I am Head of Cryptography division at CyberLabs IIT(ISM) Dhanbad
 - ⚡ Ask me about anything. If I didn't know maybe I will learn something new!
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/abhishek-kumar-5ba135179/" />][linkedin]
